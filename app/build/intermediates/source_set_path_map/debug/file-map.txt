@@ -1,0 +1,16 @@
+com.example.administrator.note.app-support-compat-28.0.0-0 C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\res
+com.example.administrator.note.app-coordinatorlayout-28.0.0-1 C:\Users\frank\.gradle\caches\transforms-3\568c762957e87adb25eac94f3bddea2d\transformed\coordinatorlayout-28.0.0\res
+com.example.administrator.note.app-cardview-v7-28.0.0-2 C:\Users\frank\.gradle\caches\transforms-3\703109fae2f389c31de7af6aa00ae2fb\transformed\cardview-v7-28.0.0\res
+com.example.administrator.note.app-design-28.0.0-3 C:\Users\frank\.gradle\caches\transforms-3\7e1907f63ff91663c6c87fcc65fa47d5\transformed\design-28.0.0\res
+com.example.administrator.note.app-constraint-layout-1.1.3-4 C:\Users\frank\.gradle\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\res
+com.example.administrator.note.app-recyclerview-v7-28.0.0-5 C:\Users\frank\.gradle\caches\transforms-3\d3210e8e64ad7321d64cd7ae187baa0c\transformed\recyclerview-v7-28.0.0\res
+com.example.administrator.note.app-transition-28.0.0-6 C:\Users\frank\.gradle\caches\transforms-3\dd148e729fdb4e754e49b20c9ecc7056\transformed\transition-28.0.0\res
+com.example.administrator.note.app-appcompat-v7-28.0.0-7 C:\Users\frank\.gradle\caches\transforms-3\ea5271aff2e9b4fa4c0a0cdbc7dd64f1\transformed\appcompat-v7-28.0.0\res
+com.example.administrator.note.app-pngs-8 C:\Users\frank\Desktop\Note-master\app\build\generated\res\pngs\debug
+com.example.administrator.note.app-resValues-9 C:\Users\frank\Desktop\Note-master\app\build\generated\res\resValues\debug
+com.example.administrator.note.app-rs-10 C:\Users\frank\Desktop\Note-master\app\build\generated\res\rs\debug
+com.example.administrator.note.app-mergeDebugResources-11 C:\Users\frank\Desktop\Note-master\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.administrator.note.app-mergeDebugResources-12 C:\Users\frank\Desktop\Note-master\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.administrator.note.app-merged_res-13 C:\Users\frank\Desktop\Note-master\app\build\intermediates\merged_res\debug
+com.example.administrator.note.app-debug-14 C:\Users\frank\Desktop\Note-master\app\src\debug\res
+com.example.administrator.note.app-main-15 C:\Users\frank\Desktop\Note-master\app\src\main\res

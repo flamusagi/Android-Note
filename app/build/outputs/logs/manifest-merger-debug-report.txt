@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:grantUriPermissions
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:26:13-47
+	android:authorities
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:24:13-64
+	android:exported
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:23:13-67
+manifest
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\7e1907f63ff91663c6c87fcc65fa47d5\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\ea5271aff2e9b4fa4c0a0cdbc7dd64f1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\frank\.gradle\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\40e37da139b1bd9b7bb8fa764c559d9c\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\e216d5fc9d484c02d41662c8e0d7e480\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d3210e8e64ad7321d64cd7ae187baa0c\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\fa82f3329e59aafeaa3050f33beac85e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\4e0198e82df7df76f4b187e00d280369\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b989c8f12e7c957abc7a1884076574a\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\dd148e729fdb4e754e49b20c9ecc7056\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d16fbd92de45efb526b3b585a0a005fc\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\1e4b8f041d5297383d42909d15c5b2a3\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\568c762957e87adb25eac94f3bddea2d\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\a475c4691c9d028902b5a7488887115d\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\9d6a31faaaea9177a87179bc9310c6ea\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\5841284d7507ad629e40e1c8df6e4056\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\1127f69e69b22545ca312359b65618e7\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\398703382a1e8b659cf490e6c447382b\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\481601e68be228fa2a45e74a81c7e04e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\c707fe02fa1106d9f0139fe5215803d7\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\703109fae2f389c31de7af6aa00ae2fb\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\f123473990d486b3f20e8fe949c7b281\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\67ddafa61b8f47933cb658e483beb385\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\70db801f677f7f92eb41cc9d8c101114\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d2faecab65285283c7b675bf5558ce45\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\d2b956bf5399713c4d2044c4c083205a\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d68956c51c5efef0e8a1717341546fdc\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\a53d9506ae4dacb055d43639ef5bb2b9\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\8685e06f4e5777f3b1c280be6231fd18\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\d7f073c16ca3baa38c501851e8255cb7\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.CAMERA
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:5:5-85
+	android:required
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:5:58-82
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:15:5-52:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\7e1907f63ff91663c6c87fcc65fa47d5\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\7e1907f63ff91663c6c87fcc65fa47d5\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\frank\.gradle\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\frank\.gradle\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\481601e68be228fa2a45e74a81c7e04e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\481601e68be228fa2a45e74a81c7e04e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:17:9-36
+	android:allowBackup
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.administrator.note.MainActivity
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:32:19-47
+activity#com.example.administrator.note.ActionActivity
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:33:19-49
+activity#com.example.administrator.note.LookNoteActivity
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:34:9-54
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:34:19-51
+activity#com.example.administrator.note.EditTextActivity
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:35:19-51
+activity#com.example.administrator.note.CloudActivity
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:36:19-48
+activity#com.example.administrator.note.SplashActivity
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:40:13-53
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:38:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:44:27-74
+service#com.example.administrator.note.DeleteService
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:48:9-51:47
+	android:enabled
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:51:13-36
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:49:13-42
+uses-sdk
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\7e1907f63ff91663c6c87fcc65fa47d5\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\7e1907f63ff91663c6c87fcc65fa47d5\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\ea5271aff2e9b4fa4c0a0cdbc7dd64f1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\ea5271aff2e9b4fa4c0a0cdbc7dd64f1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\frank\.gradle\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\frank\.gradle\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\40e37da139b1bd9b7bb8fa764c559d9c\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\40e37da139b1bd9b7bb8fa764c559d9c\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\e216d5fc9d484c02d41662c8e0d7e480\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\e216d5fc9d484c02d41662c8e0d7e480\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d3210e8e64ad7321d64cd7ae187baa0c\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d3210e8e64ad7321d64cd7ae187baa0c\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\fa82f3329e59aafeaa3050f33beac85e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\fa82f3329e59aafeaa3050f33beac85e\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\4e0198e82df7df76f4b187e00d280369\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\4e0198e82df7df76f4b187e00d280369\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b989c8f12e7c957abc7a1884076574a\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b989c8f12e7c957abc7a1884076574a\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\dd148e729fdb4e754e49b20c9ecc7056\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\dd148e729fdb4e754e49b20c9ecc7056\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d16fbd92de45efb526b3b585a0a005fc\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d16fbd92de45efb526b3b585a0a005fc\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\1e4b8f041d5297383d42909d15c5b2a3\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\1e4b8f041d5297383d42909d15c5b2a3\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\568c762957e87adb25eac94f3bddea2d\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\568c762957e87adb25eac94f3bddea2d\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\a475c4691c9d028902b5a7488887115d\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\a475c4691c9d028902b5a7488887115d\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\9d6a31faaaea9177a87179bc9310c6ea\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\9d6a31faaaea9177a87179bc9310c6ea\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\5841284d7507ad629e40e1c8df6e4056\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\5841284d7507ad629e40e1c8df6e4056\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\1127f69e69b22545ca312359b65618e7\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\1127f69e69b22545ca312359b65618e7\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\398703382a1e8b659cf490e6c447382b\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\398703382a1e8b659cf490e6c447382b\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\481601e68be228fa2a45e74a81c7e04e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\481601e68be228fa2a45e74a81c7e04e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\c707fe02fa1106d9f0139fe5215803d7\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\c707fe02fa1106d9f0139fe5215803d7\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\703109fae2f389c31de7af6aa00ae2fb\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\703109fae2f389c31de7af6aa00ae2fb\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\f123473990d486b3f20e8fe949c7b281\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\f123473990d486b3f20e8fe949c7b281\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\67ddafa61b8f47933cb658e483beb385\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\67ddafa61b8f47933cb658e483beb385\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\70db801f677f7f92eb41cc9d8c101114\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\70db801f677f7f92eb41cc9d8c101114\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d2faecab65285283c7b675bf5558ce45\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d2faecab65285283c7b675bf5558ce45\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\d2b956bf5399713c4d2044c4c083205a\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\d2b956bf5399713c4d2044c4c083205a\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d68956c51c5efef0e8a1717341546fdc\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\frank\.gradle\caches\transforms-3\d68956c51c5efef0e8a1717341546fdc\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\a53d9506ae4dacb055d43639ef5bb2b9\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\a53d9506ae4dacb055d43639ef5bb2b9\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\8685e06f4e5777f3b1c280be6231fd18\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\8685e06f4e5777f3b1c280be6231fd18\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\d7f073c16ca3baa38c501851e8255cb7\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\frank\.gradle\caches\transforms-3\d7f073c16ca3baa38c501851e8255cb7\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:27:13-29:58
+	android:resource
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:29:17-55
+	android:name
+		ADDED from C:\Users\frank\Desktop\Note-master\app\src\main\AndroidManifest.xml:28:17-67
